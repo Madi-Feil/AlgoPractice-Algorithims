@@ -43,3 +43,4 @@ function insertAt(arr, index, value) {
 }
 //console.log(insertAt([100,200,5],2,311)) logs => [100,200,311,5]
 //console.log(insertAt([9,33,7],1,42)) logs => [9,42,33,7]
+
